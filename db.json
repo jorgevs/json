@@ -1,0 +1,70 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  
+  "interests": {
+    "user": {
+      "id": 123456,
+      "emailAddress": "jvazquez@emaikl.com",
+      "fullName": "Jorge Vazquez"
+    },
+    "interests": {
+      "Banking": [
+        {
+          "interestId": 2,
+          "interestName": "Savings"
+        }
+      ],
+      "Cloud": [
+        {
+          "interestId": 3,
+          "interestName": "Eroku"
+        },
+        {
+          "interestId": 6,
+          "interestName": "AWS"
+        },
+        {
+          "interestId": 7,
+          "interestName": "Kubernetes"
+        }
+      ],
+      "Data": [
+        {
+          "interestId": 4,
+          "interestName": "MySQL"
+        },
+        {
+          "interestId": 8,
+          "interestName": "Oracle"
+        },
+        {
+          "interestId": 9,
+          "interestName": "MariaDB"
+        },
+        {
+          "interestId": 10,
+          "interestName": "Posgress"
+        }
+      ],
+      "Topic": [
+        {
+          "interestId": 1,
+          "interestName": "Marketing"
+        },
+        {
+          "interestId": 5,
+          "interestName": "Sales"
+        }
+      ]
+    }
+  }
+}
