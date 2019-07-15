@@ -13,56 +13,56 @@
   "interests": {
     "user": {
       "id": 123456,
-      "emailAddress": "jvazquez@emaikl.com",
+      "email": "jvazquez@emaikl.com",
       "fullName": "Jorge Vazquez"
     },
     "interests": {
       "Banking": [
         {
-          "interestId": 2,
-          "interestName": "Savings"
+          "id": 2,
+          "name": "Savings"
         }
       ],
       "Cloud": [
         {
-          "interestId": 3,
-          "interestName": "Eroku"
+          "id": 3,
+          "name": "Eroku"
         },
         {
-          "interestId": 6,
-          "interestName": "AWS"
+          "id": 6,
+          "name": "AWS"
         },
         {
-          "interestId": 7,
-          "interestName": "Kubernetes"
+          "id": 7,
+          "name": "Kubernetes"
         }
       ],
       "Data": [
         {
-          "interestId": 4,
-          "interestName": "MySQL"
+          "id": 4,
+          "name": "MySQL"
         },
         {
-          "interestId": 8,
-          "interestName": "Oracle"
+          "id": 8,
+          "name": "Oracle"
         },
         {
-          "interestId": 9,
-          "interestName": "MariaDB"
+          "id": 9,
+          "name": "MariaDB"
         },
         {
-          "interestId": 10,
-          "interestName": "Posgress"
+          "id": 10,
+          "name": "Posgress"
         }
       ],
       "Topic": [
         {
-          "interestId": 1,
-          "interestName": "Marketing"
+          "id": 1,
+          "name": "Marketing"
         },
         {
-          "interestId": 5,
-          "interestName": "Sales"
+          "id": 5,
+          "name": "Sales"
         }
       ]
     }
