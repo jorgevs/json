@@ -11,58 +11,95 @@
   ],
   
   "interests": {
-    "user": {
-      "id": 123456,
-      "email": "jvazquez@emaikl.com",
-      "fullName": "Jorge Vazquez"
-    },
     "interests": {
-      "Banking": [
+      "Initiatives": [
         {
           "id": 2,
-          "name": "Savings"
-        }
-      ],
-      "Cloud": [
+          "name": "Customer Advocacy"
+        },
         {
           "id": 3,
-          "name": "Eroku"
+          "name": "Digital Banking"
         },
-        {
-          "id": 6,
-          "name": "AWS"
-        },
-        {
-          "id": 7,
-          "name": "Kubernetes"
-        }
-      ],
-      "Data": [
         {
           "id": 4,
-          "name": "MySQL"
-        },
-        {
-          "id": 8,
-          "name": "Oracle"
-        },
-        {
-          "id": 9,
-          "name": "MariaDB"
-        },
-        {
-          "id": 10,
-          "name": "Posgress"
-        }
-      ],
-      "Topic": [
-        {
-          "id": 1,
-          "name": "Marketing"
+          "name": "Digital Financial Innovation"
         },
         {
           "id": 5,
-          "name": "Sales"
+          "name": "Digital Strategy"
+        },
+        {
+          "id": 6,
+          "name": "Digital Transformation"
+        },
+        {
+          "id": 7,
+          "name": "Financial Advisors"
+        },
+        {
+          "id": 8,
+          "name": "Internet of Things"
+        },
+        {
+          "id": 9,
+          "name": "Mobile Banking"
+        },
+        {
+          "id": 10,
+          "name": "Multichannel Selling Strategies"
+        },
+        {
+          "id": 1,
+          "name": "Consumer Financial Services"
+        }
+      ],
+      "Sectors": [
+        {
+          "id": 11,
+          "name": "Financial Services"
+        },
+        {
+          "id": 12,
+          "name": "Fintech"
+        },
+        {
+          "id": 13,
+          "name": "Insurance"
+        },
+        {
+          "id": 15,
+          "name": "Retail Banking"
+        },
+        {
+          "id": 16,
+          "name": "Wealth Management"
+        }
+      ],
+      "Analysts": [
+        {
+          "id": 17,
+          "name": "Oliwia Berdak"
+        },
+        {
+          "id": 18,
+          "name": "Vijay Raghavan"
+        },
+        {
+          "id": 19,
+          "name": "Jeffrey Williams"
+        },
+        {
+          "id": 20,
+          "name": "Benjamin Ensor"
+        },
+        {
+          "id": 21,
+          "name": "Alyson Clarke"
+        },
+        {
+          "id": 23,
+          "name": "August DuPont"
         }
       ]
     }
