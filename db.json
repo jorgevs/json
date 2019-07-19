@@ -103,5 +103,41 @@
         }
       ]
     }
+  },
+
+  "userinterests": {
+    "interests": {
+      "Initiatives": [
+        {
+          "id": 3,
+          "name": "Digital Banking"
+        },
+        {
+          "id": 2,
+          "name": "Customer Advocacy"
+        }
+      ],
+      "Sectors": [
+        {
+          "id": 11,
+          "name": "Financial Services"
+        },
+        {
+          "id": 12,
+          "name": "Fintech"
+        }
+      ],
+      "Analysts": [
+        {
+          "id": 18,
+          "name": "Vijay Raghavan"
+        },
+        {
+          "id": 17,
+          "name": "Oliwia Berdak"
+        }
+      ]
+    }
   }
+
 }
